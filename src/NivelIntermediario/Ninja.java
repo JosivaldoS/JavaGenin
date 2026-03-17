@@ -5,10 +5,10 @@ public class Ninja {
     String nome;
     String aldeia;
     int idade;
-    boolean ninjaUchiha;
+    // boolean ninjaUchiha;
 
 
-    // Metodos do tipo void não precisam de return, ou seja, não precisam retornar nada
+    /* Metodos do tipo void não precisam de return, ou seja, não precisam retornar nada
     public void ativarSharingan() {
         if (ninjaUchiha) {
             System.out.println("O Sharingan foi ativado!");
@@ -16,6 +16,7 @@ public class Ninja {
             System.out.println("O Sharingan não foi ativado.");
         }
     }
+
 
     // Metodo do tipo String precisa retornar algum valor
     public String EuSouUmNinja() {
@@ -26,6 +27,8 @@ public class Ninja {
     public int anosParaSerHokage(int idadeMinimaParaSerHokage) {
         return idadeMinimaParaSerHokage - idade;
     }
+
+     */
 
 
 }
